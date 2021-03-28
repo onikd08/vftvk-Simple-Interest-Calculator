@@ -1,12 +1,12 @@
 body {
     background-color:black;
     color:white;
-    font:arial;
+    font-family:Arial;
     }
 
 h1 {
     color:gray;
-    font:verdana;
+    font-family:Verdana;
     }
 
 .maindiv {
